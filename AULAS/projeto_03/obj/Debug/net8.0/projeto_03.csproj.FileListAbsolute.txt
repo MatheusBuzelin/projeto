@@ -1,0 +1,14 @@
+C:\Users\Samsung\Documents\DotNet\aulas\projeto_03\obj\Debug\net8.0\projeto_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Documents\DotNet\aulas\projeto_03\obj\Debug\net8.0\projeto_03.AssemblyInfoInputs.cache
+C:\Users\Samsung\Documents\DotNet\aulas\projeto_03\obj\Debug\net8.0\projeto_03.AssemblyInfo.cs
+C:\Users\Samsung\Documents\DotNet\aulas\projeto_03\obj\Debug\net8.0\projeto_03.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Documents\DotNet\aulas\projeto_03\bin\Debug\net8.0\projeto_03.exe
+C:\Users\Samsung\Documents\DotNet\aulas\projeto_03\bin\Debug\net8.0\projeto_03.deps.json
+C:\Users\Samsung\Documents\DotNet\aulas\projeto_03\bin\Debug\net8.0\projeto_03.runtimeconfig.json
+C:\Users\Samsung\Documents\DotNet\aulas\projeto_03\bin\Debug\net8.0\projeto_03.dll
+C:\Users\Samsung\Documents\DotNet\aulas\projeto_03\bin\Debug\net8.0\projeto_03.pdb
+C:\Users\Samsung\Documents\DotNet\aulas\projeto_03\obj\Debug\net8.0\projeto_03.dll
+C:\Users\Samsung\Documents\DotNet\aulas\projeto_03\obj\Debug\net8.0\refint\projeto_03.dll
+C:\Users\Samsung\Documents\DotNet\aulas\projeto_03\obj\Debug\net8.0\projeto_03.pdb
+C:\Users\Samsung\Documents\DotNet\aulas\projeto_03\obj\Debug\net8.0\projeto_03.genruntimeconfig.cache
+C:\Users\Samsung\Documents\DotNet\aulas\projeto_03\obj\Debug\net8.0\ref\projeto_03.dll

@@ -1,0 +1,14 @@
+C:\Users\Samsung\Documents\DotNet\lista_02_nova\ex03\bin\Debug\net8.0\ex03.exe
+C:\Users\Samsung\Documents\DotNet\lista_02_nova\ex03\bin\Debug\net8.0\ex03.deps.json
+C:\Users\Samsung\Documents\DotNet\lista_02_nova\ex03\bin\Debug\net8.0\ex03.runtimeconfig.json
+C:\Users\Samsung\Documents\DotNet\lista_02_nova\ex03\bin\Debug\net8.0\ex03.dll
+C:\Users\Samsung\Documents\DotNet\lista_02_nova\ex03\bin\Debug\net8.0\ex03.pdb
+C:\Users\Samsung\Documents\DotNet\lista_02_nova\ex03\obj\Debug\net8.0\ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Documents\DotNet\lista_02_nova\ex03\obj\Debug\net8.0\ex03.AssemblyInfoInputs.cache
+C:\Users\Samsung\Documents\DotNet\lista_02_nova\ex03\obj\Debug\net8.0\ex03.AssemblyInfo.cs
+C:\Users\Samsung\Documents\DotNet\lista_02_nova\ex03\obj\Debug\net8.0\ex03.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Documents\DotNet\lista_02_nova\ex03\obj\Debug\net8.0\ex03.dll
+C:\Users\Samsung\Documents\DotNet\lista_02_nova\ex03\obj\Debug\net8.0\refint\ex03.dll
+C:\Users\Samsung\Documents\DotNet\lista_02_nova\ex03\obj\Debug\net8.0\ex03.pdb
+C:\Users\Samsung\Documents\DotNet\lista_02_nova\ex03\obj\Debug\net8.0\ex03.genruntimeconfig.cache
+C:\Users\Samsung\Documents\DotNet\lista_02_nova\ex03\obj\Debug\net8.0\ref\ex03.dll
